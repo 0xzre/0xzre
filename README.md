@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/semifinal-com?theme=nord&font=Courier%20Prime&ext=heatmap)
+
 <!--
 **semifinal-com/semifinal-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
