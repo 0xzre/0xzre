@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/semifinal-com?theme=nord&font=Courier%20Prime&ext=heatmap)
 
